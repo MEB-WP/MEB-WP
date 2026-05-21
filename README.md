@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -63,6 +63,7 @@
       border-radius:15px;
       margin-bottom:25px;
       border:2px solid gold;
+      background:white;
     }
 
     .info{
@@ -132,11 +133,11 @@
       ✅ PRODUIT AUTHENTIQUE
     </div>
 
-    <!-- IMAGE DU PRODUIT -->
+    <!-- TON IMAGE -->
     <img 
-      src="https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=1200&auto=format&fit=crop"
+      src="IMG_20260519_233520_717.jpg"
       class="product-image"
-      alt="T-shirt"
+      alt="T-shirt MEB WEAR POWER"
     >
 
     <div class="info">

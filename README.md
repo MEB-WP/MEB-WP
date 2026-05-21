@@ -198,7 +198,7 @@
     </div>
 
     <img 
-      src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1200&auto=format&fit=crop"
+      src="IMG_20260519225707322.jpg"
       alt="Fashion"
     >
 

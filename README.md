@@ -192,7 +192,7 @@
   <div class="card page2" id="mebPage">
 
     <div class="welcome">
-      ✨ BIENVENUE CHEZ MEB ✨
+      ✨ BIENVENUE CHEZ MEB WEAR POWER ✨
     </div>
 
     <img 
@@ -202,7 +202,7 @@
 
     <div class="text">
       Découvrez la puissance du style avec la collection 
-      <strong>WEAR POWER GOLD EDITION</strong>.
+      <strong>WEAR POWER DU MODELE GOLD EDITION</strong>.
       <br><br>
       Merci de faire confiance à MEB.
     </div>

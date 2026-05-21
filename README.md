@@ -183,9 +183,7 @@
 
     <div class="footer">
       © 2026 MEB WEAR POWER — Tous droits réservés
-
-</body>
-</html>
+      
 </div>
 
   </div>

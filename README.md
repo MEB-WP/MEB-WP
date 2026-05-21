@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -179,7 +178,7 @@
     </div>
 
     <a href="#" class="button">
-      VISITER MEB
+      VISITER MEB WEAR POWER
     </a>
 
     <div class="footer">

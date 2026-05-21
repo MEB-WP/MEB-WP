@@ -189,3 +189,42 @@
 
 </body>
 </html>
+</div>
+
+  </div>
+
+  <!-- PAGE 2 -->
+  <div class="card page2" id="mebPage">
+
+    <div class="welcome">
+      ✨ BIENVENUE CHEZ MEB ✨
+    </div>
+
+    <img 
+      src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1200&auto=format&fit=crop"
+      alt="Fashion"
+    >
+
+    <div class="text">
+      Découvrez la puissance du style avec la collection 
+      <strong>WEAR POWER GOLD EDITION</strong>.
+      <br><br>
+      Merci de faire confiance à MEB.
+    </div>
+
+  </div>
+
+  <script>
+
+    function openMEB(){
+
+      document.getElementById("authPage").style.display = "none";
+
+      document.getElementById("mebPage").style.display = "block";
+
+    }
+
+  </script>
+
+</body>
+</html>
